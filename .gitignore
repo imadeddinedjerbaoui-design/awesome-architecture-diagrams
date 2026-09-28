@@ -1,0 +1,14 @@
+# Local review receipts and previews
+.impeccable/
+*-result.json
+*-receipt.json
+*-stream.jsonl
+*-stderr.log
+REVIEW-STATUS.md
+RESEARCH-BRIEF.md
+ROUND-2-NOTES.md
+research-round-*.md
+validation-round-*.md
+PRODUCT.md
+DESIGN.md
+preview.png

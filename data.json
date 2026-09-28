@@ -1,0 +1,148 @@
+{
+  "title": "Awesome Architecture Diagrams",
+  "verified": "2026-09-27",
+  "categories": [
+    {
+      "id": "diagrams-as-code",
+      "name": "Diagrams as code",
+      "description": "Author diagrams in text or a programming language, then render them for documentation or review.",
+      "entries": [
+        {
+          "name": "ARC",
+          "url": "https://github.com/arach/arc",
+          "description": "Typed TypeScript and JSON architecture diagrams with a React renderer, visual editor, and CLI; a companion viewer provides lossy Mermaid flowchart and state-diagram import."
+        },
+        {
+          "name": "Archify",
+          "url": "https://github.com/tt-a1i/archify",
+          "description": "Agent skill that turns descriptions or repository analysis into typed JSON source and self-contained interactive HTML diagrams."
+        },
+        {
+          "name": "C4-PlantUML",
+          "url": "https://github.com/plantuml-stdlib/C4-PlantUML",
+          "description": "PlantUML macros for authoring C4 diagrams; requires PlantUML rather than providing a standalone modeling application."
+        },
+        {
+          "name": "D2",
+          "url": "https://d2lang.com/",
+          "description": "Declarative diagram language with nested containers, multiple layout engines, and a local CLI."
+        },
+        {
+          "name": "Diagrams",
+          "url": "https://diagrams.mingrammer.com/",
+          "description": "Python library for cloud and on-premises architecture diagrams using provider node types and Graphviz rendering."
+        },
+        {
+          "name": "Graphviz",
+          "url": "https://graphviz.org/",
+          "description": "Graph visualization tools that lay out and render DOT descriptions of nodes, edges, and clusters."
+        },
+        {
+          "name": "Mermaid",
+          "url": "https://mermaid.ai/open-source/intro/",
+          "description": "Text-based diagramming library for flowcharts, sequence diagrams, and other diagram types embedded in documentation."
+        },
+        {
+          "name": "PlantUML",
+          "url": "https://plantuml.com/",
+          "description": "Text-based UML and related diagrams, including component, deployment, and sequence diagrams."
+        }
+      ]
+    },
+    {
+      "id": "architecture-models-and-views",
+      "name": "Architecture models and views",
+      "description": "Describe architecture concepts and relationships, or use a defined notation to communicate them across diagrams.",
+      "entries": [
+        {
+          "name": "Archi",
+          "url": "https://www.archimatetool.com/",
+          "description": "Desktop modeling application for ArchiMate enterprise architecture models and views."
+        },
+        {
+          "name": "IcePanel",
+          "url": "https://icepanel.io/",
+          "description": "Visual C4 modeling tool that reuses model objects across connected architecture diagrams."
+        },
+        {
+          "name": "Ilograph",
+          "url": "https://www.ilograph.com/",
+          "description": "Model-based, interactive system diagrams with automatic layouts and zoomable views of components and flows."
+        },
+        {
+          "name": "LikeC4",
+          "url": "https://likec4.dev/",
+          "description": "Architecture DSL that generates interactive views from a shared model and supports embedding diagrams in applications and documentation."
+        },
+        {
+          "name": "Structurizr",
+          "url": "https://docs.structurizr.com/",
+          "description": "C4 models as code using Structurizr DSL to create multiple architecture views from one model."
+        }
+      ]
+    },
+    {
+      "id": "visual-editors",
+      "name": "Visual editors",
+      "description": "Draw and arrange diagrams directly. General-purpose editors are included when they support software architecture sketching or documentation.",
+      "entries": [
+        {
+          "name": "draw.io",
+          "url": "https://www.drawio.com/",
+          "description": "Visual diagram editor, also available at app.diagrams.net, with UML, network, and infrastructure shape libraries."
+        },
+        {
+          "name": "Eraser",
+          "url": "https://docs.eraser.io/what-is-eraser",
+          "description": "Technical diagramming workspace with a visual canvas, diagram-as-code authoring, and AI-assisted diagram generation."
+        },
+        {
+          "name": "Excalidraw",
+          "url": "https://github.com/excalidraw/excalidraw",
+          "description": "Open-source whiteboard with a hand-drawn style for sketching systems and collaborating on early designs."
+        }
+      ]
+    },
+    {
+      "id": "rendering-services",
+      "name": "Rendering services",
+      "description": "Convert existing diagram source into images through an API; the source language still defines the diagram.",
+      "entries": [
+        {
+          "name": "Kroki",
+          "url": "https://kroki.io/",
+          "description": "Unified HTTP rendering API for languages and tools including Graphviz, Mermaid, PlantUML, and D2."
+        }
+      ]
+    },
+    {
+      "id": "diagram-ui-and-layout-libraries",
+      "name": "Diagram UI and layout libraries",
+      "description": "Building blocks for custom editors and viewers. These require application development.",
+      "entries": [
+        {
+          "name": "ELK.js",
+          "url": "https://github.com/kieler/elkjs",
+          "description": "JavaScript graph layout algorithms that compute element positions and edge routes. Rendering and interaction are supplied by the consuming application."
+        },
+        {
+          "name": "React Flow",
+          "url": "https://reactflow.dev/",
+          "description": "React components for interactive node-and-edge editors and viewers, with customizable nodes and edges; applications supply layout separately."
+        }
+      ]
+    },
+    {
+      "id": "learning-resources",
+      "name": "Learning resources",
+      "description": "Methods and notation for communicating software architecture across levels of detail.",
+      "entries": [
+        {
+          "name": "C4 model",
+          "url": "https://c4model.com/",
+          "description": "A framework for describing software architecture through system context, container, component, and code diagrams."
+        }
+      ]
+    }
+  ]
+}
